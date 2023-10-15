@@ -13,12 +13,12 @@ This project involves performing an exploratory analysis of food hygiene ratings
     - Imported necessary Python libraries such as PyMongo and Pretty Print (pprint).
     - Created an instance of MongoClient and confirmed the creation of the database and loading of data.
 
-Part 2: Update the Database
+## Part 2: Update the Database
     - Added a new halal restaurant "Penang Flavours" in Greenwich to the database and updated its BusinessTypeID.
     - Checked and removed establishments within the "Dover" Local Authority.
     - Converted latitude, longitude, and RatingValue to the appropriate data types.
 
-Part 3: Exploratory Analysis
+## Part 3: Exploratory Analysis
     - Identified establishments with a hygiene score equal to 20 and displayed relevant information.
     - Explored establishments in London with a RatingValue greater than or equal to 4.
     - Found the top 5 establishments with a RatingValue of 5, sorted by the lowest hygiene score, nearest to a new restaurant "Penang Flavours."
