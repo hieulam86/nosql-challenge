@@ -7,7 +7,7 @@ This project involves performing an exploratory analysis of food hygiene ratings
 ## Part 1: Database and Jupyter Notebook Set Up
 
 1. Database Setup
-Imported data from the establishments.json file into a MongoDB database named uk_food and a collection named establishments.
+    - Imported data from the establishments.json file into a MongoDB database named uk_food and a collection named establishments.
 
 2. Jupyter Notebook Setup
     - Imported necessary Python libraries such as PyMongo and Pretty Print (pprint).
